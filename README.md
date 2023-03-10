@@ -9,14 +9,14 @@ The purpose of this repository is to serve as a guide for beginners.
 
 ## Contents
 
-* [Preview](https://github.com/kerimbr/)
-* [Setup](https://github.com/kerimbr/)
-* [Project Folder Structure](https://github.com/kerimbr/)
-* [Project Architecture](https://github.com/kerimbr/)
-* [Dependencies](https://github.com/kerimbr/)
+* [Preview](https://github.com/kerimbr/RJGames-Jetpack-Compose-Rawg.io-API#preview-view)
+* [Setup](https://github.com/kerimbr/RJGames-Jetpack-Compose-Rawg.io-API#run-it)
+* [Project Folder Structure](https://github.com/kerimbr/RJGames-Jetpack-Compose-Rawg.io-API#project-structure)
+* [Project Architecture](https://github.com/kerimbr/RJGames-Jetpack-Compose-Rawg.io-API#project-architecture)
+* [Dependencies](RJGames-Jetpack-Compose-Rawg.io-API#dependencies)
 
 
-## Preview (View)
+## Preview (Video)
 
 https://user-images.githubusercontent.com/50443794/224317126-9fe7b055-d1e9-40f4-8343-45cc85fc533e.mp4
 ## Run It
